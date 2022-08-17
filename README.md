@@ -1,2 +1,2 @@
 # contador
-Esta es una aplicacion de contador para aprender y practicar conceptos basicos
+Esta es una aplicación de contador para aprender y practicar conceptos básicos
